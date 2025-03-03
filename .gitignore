@@ -1,0 +1,7 @@
+.vscode/settings.json
+bin/Cuffie.class
+bin/Prodotto.class
+bin/Smartphone.class
+bin/Televisore.class
+bin/UsaProdotto.class
+src/UsaProdotto.java
